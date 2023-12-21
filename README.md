@@ -6,7 +6,7 @@ This is a repository for building the Machine Learning model for the Motion Sign
 * [Datasets](#datasets)
 
 ## Description
-This machine learning model was created to predict the user's sign language by detecting and also classifying the user's hand movements. This model was built using TensorFlow and Keras.
+This machine learning model was created to predict the user's sign language by detecting and also classifying the user's hand movements. This model aims to bridge the communication gap by developing a machine learning-powered system to translate sign language gestures captured in video into text. The project centers on the integration of the SIBI (Sistem Isyarat Bahasa Indonesia), which specifically caters to Indonesian Sign Language. Its main feature is as a translator of sign language gestures from a video stream in real-time.This model was built using TensorFlow and Keras.
 
 ## Datasets
 The dataset is gathered from kaggle and gathered by our team. These are the following links:
