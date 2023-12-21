@@ -14,4 +14,5 @@ The dataset is gathered from kaggle and gathered by our team. These are the foll
 * https://www.kaggle.com/datasets/utsavk02/wlasl-complete
 
 The dataset from Kaggle that has successfully gone through the data collection and data cleaning process is then compiled to produce the 10 most frequently used Indonesian words. From the vast amount of data in the Kaggle database, we only take 10 words that have videos with a high level of precision per video. Here is the link to the clean Google Drive dataset:
+
 https://drive.google.com/file/d/1UBqqKOUwIKMTl-3Y39Yjn2v-igTmqX89/view
